@@ -1,0 +1,172 @@
+{
+  "usage_history": [
+    {
+      "month": "2025-07",
+      "units": 781
+    },
+    {
+      "month": "2025-08",
+      "units": 225
+    },
+    {
+      "month": "2025-09",
+      "units": -142
+    },
+    {
+      "month": "2025-10",
+      "units": -176
+    },
+    {
+      "month": "2025-11",
+      "units": -440
+    },
+    {
+      "month": "2025-12",
+      "units": -162
+    },
+    {
+      "month": "2026-01",
+      "units": 359
+    },
+    {
+      "month": "2026-02",
+      "units": -809
+    },
+    {
+      "month": "2026-03",
+      "units": -818
+    },
+    {
+      "month": "2026-04",
+      "units": -402
+    },
+    {
+      "month": "2026-05",
+      "units": -1955
+    },
+    {
+      "month": "2026-06",
+      "units": -152
+    }
+  ],
+  "billing_history": [
+    {
+      "month": "2025-07",
+      "billed_amount": -35552,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2025-08",
+      "billed_amount": -21364,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2025-09",
+      "billed_amount": -22475,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2025-10",
+      "billed_amount": -21274,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2025-11",
+      "billed_amount": -20094,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2025-12",
+      "billed_amount": -29501,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2026-01",
+      "billed_amount": -8052,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2026-02",
+      "billed_amount": -6686,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2026-03",
+      "billed_amount": -38209,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2026-04",
+      "billed_amount": -34226,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2026-05",
+      "billed_amount": -30243,
+      "payment": null,
+      "pay_date": null
+    },
+    {
+      "month": "2026-06",
+      "billed_amount": -75496,
+      "payment": null,
+      "pay_date": null
+    }
+  ],
+  "extras": {
+    "net_metering_benefit": null,
+    "outstanding_balance": -75496,
+    "late_payment_tiers": [
+      {
+        "label": "Upto 03/08/26",
+        "amount": 0
+      },
+      {
+        "label": "After 03/08/26",
+        "amount": 0
+      }
+    ],
+    "energy_percent": null,
+    "tax_percent": null,
+    "register_rows": [
+      {
+        "label": "1",
+        "previous": 11561,
+        "current": 12578,
+        "units": 1017
+      },
+      {
+        "label": "1",
+        "previous": 3260,
+        "current": 3562,
+        "units": 302
+      },
+      {
+        "label": "1",
+        "previous": 21822,
+        "current": 22859,
+        "units": 1037
+      },
+      {
+        "label": "1",
+        "previous": 5,
+        "current": 5,
+        "units": null
+      }
+    ],
+    "notes": [
+      "NOT TO BE PAID",
+      "NET METERING CONNECTION"
+    ]
+  }
+}

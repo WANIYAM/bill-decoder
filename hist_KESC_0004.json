@@ -1,0 +1,122 @@
+{
+  "usage_history": [
+    {
+      "month": "2025-06",
+      "units": 943
+    },
+    {
+      "month": "2025-07",
+      "units": 637
+    },
+    {
+      "month": "2025-08",
+      "units": 665
+    },
+    {
+      "month": "2025-09",
+      "units": 555
+    },
+    {
+      "month": "2025-10",
+      "units": 522
+    },
+    {
+      "month": "2025-11",
+      "units": 143
+    },
+    {
+      "month": "2025-12",
+      "units": 121
+    },
+    {
+      "month": "2026-01",
+      "units": 114
+    },
+    {
+      "month": "2026-02",
+      "units": 131
+    },
+    {
+      "month": "2026-03",
+      "units": 187
+    },
+    {
+      "month": "2026-04",
+      "units": 298
+    },
+    {
+      "month": "2026-05",
+      "units": 599
+    },
+    {
+      "month": "2026-06",
+      "units": 901
+    }
+  ],
+  "billing_history": [
+    {
+      "month": "2026-03",
+      "billed_amount": 13564.05,
+      "payment": 29351,
+      "pay_date": "2026-10-07"
+    },
+    {
+      "month": "2026-04",
+      "billed_amount": 18957.94,
+      "payment": 27914,
+      "pay_date": "2026-11-06"
+    },
+    {
+      "month": "2026-05",
+      "billed_amount": 32842.35,
+      "payment": 3531,
+      "pay_date": "2026-12-06"
+    }
+  ],
+  "extras": {
+    "net_metering_benefit": -114640.13,
+    "outstanding_balance": -160946.9,
+    "late_payment_tiers": [
+      {
+        "label": "Till 14-Jul-2026",
+        "amount": 0
+      },
+      {
+        "label": "After 16-Jul-2026",
+        "amount": 0
+      }
+    ],
+    "energy_percent": 83.6,
+    "tax_percent": 16.4,
+    "register_rows": [
+      {
+        "label": "Energy - Off Peak",
+        "previous": 1163.29,
+        "current": 1923.73,
+        "units": 760.44
+      },
+      {
+        "label": "Energy - Peak",
+        "previous": 402.35,
+        "current": 542.85,
+        "units": 140.5
+      },
+      {
+        "label": "Import Energy Off Peak",
+        "previous": 10865.55,
+        "current": 12238.4,
+        "units": 1372.85
+      },
+      {
+        "label": "Import Energy Peak",
+        "previous": 4.97,
+        "current": 6.53,
+        "units": 1.56
+      }
+    ],
+    "notes": [
+      "FCA of XWDISCOs is also being charged to KE consumers as part of Uniform FCA starting from the month of Jun 25",
+      "As per SRO 547/2026 read with SRO 251/2026, prosumers registered under the Prosumer Regulations 2026 (PR) are billed according to the rate and mechanism defined in PR. Net metering consumers with existing valid agreements continue to be billed under the repealed 2015 regulations until the expiry of their agreements."
+    ]
+  }
+}

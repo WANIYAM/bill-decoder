@@ -1,0 +1,96 @@
+{
+  "usage_history": [
+    {
+      "month": "2025-04",
+      "units": 141
+    },
+    {
+      "month": "2025-05",
+      "units": 138
+    },
+    {
+      "month": "2025-06",
+      "units": 197
+    },
+    {
+      "month": "2025-07",
+      "units": 239
+    },
+    {
+      "month": "2025-08",
+      "units": 203
+    },
+    {
+      "month": "2025-09",
+      "units": 176
+    },
+    {
+      "month": "2025-10",
+      "units": 173
+    },
+    {
+      "month": "2025-11",
+      "units": 187
+    },
+    {
+      "month": "2025-12",
+      "units": 124
+    },
+    {
+      "month": "2026-01",
+      "units": 96
+    },
+    {
+      "month": "2026-02",
+      "units": 88
+    },
+    {
+      "month": "2026-03",
+      "units": 115
+    },
+    {
+      "month": "2026-04",
+      "units": 151
+    }
+  ],
+  "billing_history": [
+    {
+      "month": "2026-01",
+      "billed_amount": 2780.55,
+      "payment": 2780,
+      "pay_date": "2026-01-15"
+    },
+    {
+      "month": "2026-02",
+      "billed_amount": 2782.51,
+      "payment": 2783,
+      "pay_date": "2026-02-19"
+    },
+    {
+      "month": "2026-03",
+      "billed_amount": 2577.31,
+      "payment": 2577,
+      "pay_date": "2026-03-16"
+    }
+  ],
+  "extras": {
+    "net_metering_benefit": null,
+    "outstanding_balance": -0.53,
+    "late_payment_tiers": [
+      {
+        "label": "Till 22-Apr - 24-Apr",
+        "amount": 3574
+      },
+      {
+        "label": "After 24-Apr",
+        "amount": 3716
+      }
+    ],
+    "energy_percent": 83.39,
+    "tax_percent": 16.61,
+    "register_rows": [],
+    "notes": [
+      "FCA of XWDISCOs is also being charged to KE consumers as part of Uniform FCA starting from the month of Jun 25"
+    ]
+  }
+}
